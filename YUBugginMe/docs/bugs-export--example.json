@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Login button does not respond",
+    "status": "resolved",
+    "priority": "high",
+    "labels": [
+      "javascript",
+      "interface"
+    ],
+    "details": {
+      "page": "login",
+      "browser": "Chrome",
+      "reporter": "Senna"
+    }
+  }
+]

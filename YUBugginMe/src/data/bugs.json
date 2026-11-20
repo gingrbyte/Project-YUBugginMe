@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Login button does not respond",
+    "status": "open",
+    "priority": "high",
+    "labels": ["javascript", "interface"],
+    "details": {"page": "login", "browser": "Opera", "reporter": "Senna"}
+  },
+  {
+    "id": 2,
+    "title": "Form accepts an empty title",
+    "status": "ongoing",
+    "priority": "high",
+    "labels": ["validation"],
+    "details": {"page": "report form", "browser": "Firefox", "reporter": "Rimuru"}
+  },
+  {
+    "id": 3,
+    "title": "Text runs outside the card on mobile",
+    "status": "open",
+    "priority": "medium",
+    "labels": ["css", "interface"],
+    "details": {"page": "overview", "browser": "Safari", "reporter": "Nori"}
+  },
+  {
+    "id": 4,
+    "title": "Shop button glitches",
+    "status": "open",
+    "priority": "low",
+    "labels": ["css", "interface"],
+    "details": {"page": "overview", "browser": "Safari", "reporter": "Nori"}
+  }
+]
